@@ -2,8 +2,7 @@
 <img src="https://github.com/SazidSifat/SazidSifat/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png">
 
 #👋 About Me:
-Hi, I'm Sazid Ahamed Sifat, a Computer Science & Engineering student with a strong passion for full-stack web development. I specialize in building responsive and dynamic web applications using technologies like React, React Router, HTML, CSS, JavaScript, and Node.js.
-As a monolithic developer, I enjoy handling both frontend and backend to bring complete ideas to life. I've worked on several real-world projects including Historical Artifact Tracker and Lancer, a freelance task marketplace.
+Hi, I'm Sazid Ahamed Sifat, a Computer Science & Engineering student with a strong passion for full-stack web development. I specialize in building responsive and dynamic web applications using technologies like React, React Router, HTML, CSS, JavaScript, and Node.js. <br>
 I'm always eager to learn new technologies and collaborate on impactful projects. Feel free to explore my repositories and connect!
 
 
