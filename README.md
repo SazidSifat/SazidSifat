@@ -27,6 +27,7 @@ I am a passionate Computer Science & Engineering student with a strong interest 
   </a>
 </p>
 <br>
+
 ## 🔭 Currently I'm:
 - 🌍 Exploring **Next.js** for server-side rendering and routing
 - 🧾 Developing a **Historical Artifact Tracker** with CRUD & Likes
