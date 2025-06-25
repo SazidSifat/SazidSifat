@@ -36,11 +36,8 @@ I am a passionate Computer Science & Engineering student with a strong interest 
 
 ## 📊 GitHub Stats
 
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=SazidSifat&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sazidsifat&show_icons=true&locale=en" alt="sazidsifat" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sazidsifat&" alt="sazidsifat" /></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sazid0411&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
