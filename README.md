@@ -7,11 +7,6 @@
 ## 🧑‍💼 About Me:
 I am a passionate Computer Science & Engineering student with a strong interest in full-stack web development. I love building interactive and dynamic web applications using the MERN stack.
 
-## 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/SazidSifat) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/sazidsifat)
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/SazidSifat14576)
-
 ## 🔭 Currently I'm:
 - 🌍 Exploring **Next.js** for server-side rendering and routing
 - 🧾 Developing a **Historical Artifact Tracker** with CRUD & Likes
