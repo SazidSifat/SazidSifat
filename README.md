@@ -37,9 +37,7 @@ I am a passionate Computer Science & Engineering student with a strong interest 
 ## 📊 GitHub Stats
 
 <p >
-  <img src="https://github-readme-stats.vercel.app/api?username=sazid0411&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazid0411&theme=dark&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SazidSifat&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" />
 </p>
 
 ---
