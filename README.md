@@ -1,6 +1,5 @@
 
 <img src="https://github.com/SazidSifat/SazidSifat/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png">
-
 <h1>👋 Hi, I'm Sazid Ahamed Sifat</h1>
 
 
