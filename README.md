@@ -7,8 +7,6 @@
 </p>
 <br>
 
-
-
 ## 🧑‍💼 About Me:
 I am a passionate Computer Science & Engineering student with a strong interest in full-stack web development. I love building interactive and dynamic web applications using the MERN stack.
 
