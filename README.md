@@ -3,7 +3,7 @@
 
 <h1 >Hi 👋, I'm Sazid Ahamed Sifat</h1>
 <p>
-  🌍 Full-Stack Developer | 🎓 CSE Student  
+  🌍 Aspiring Frontend Developer| React/NextJS Developer | 🎓 CSE Student  
 </p>
 <br>
 
