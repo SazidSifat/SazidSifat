@@ -12,7 +12,7 @@ I am a passionate Computer Science & Engineering student with a strong interest 
 
 ## 🔭 Currently I'm:
 - 🌍 Exploring **Next.js** for server-side rendering and routing
-- 🧾 Developing a **Historical Artifact Tracker** with CRUD & Likes
+- 🧾 Developing a **Learning Management Website** with nextJs and TypeScript
 - ⚙️ Practicing reusable components & performance optimization
 
 ##  💻 Tech Stack
