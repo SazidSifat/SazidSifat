@@ -17,7 +17,7 @@ I am a passionate Computer Science & Engineering student with a strong interest 
 
 ##  💻 Tech Stack
 <p >
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,express,mongodb,firebase,git,github,figma,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,express,mongodb,firebase,git,github,figma,cpp,java,python,postgresql," />
 </p>
 
 ## 🌐 Connect with Me
