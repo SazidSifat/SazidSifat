@@ -3,7 +3,7 @@
 
 <h1 >Hi 👋, I'm Sazid Ahamed Sifat</h1>
 <p>
-  🌍 Jr. Software Engineer @<a href="https://www.sasthotech.com">SasthoTech</a> | 🎓 CSE Student  
+  🌍 Jr. Software Engineer @<a target_blank href="https://www.sasthotech.com">SasthoTech</a> | 🎓 CSE Student  
 </p>
 <br>
 
