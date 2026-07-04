@@ -1,26 +1,30 @@
 <img  src="https://github.com/SazidSifat/SazidSifat/blob/main/Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png">
 <br>
 
-<h1 >Hi 👋, I'm Sazid Ahamed Sifat</h1>
+<h1 >Hi, I'm Sazid Ahamed Sifat</h1>
 <p>
   🌍 Jr. Software Engineer @<a target_blank href="https://www.sasthotech.com">SasthoTech</a> | 🎓 CSE Student  
 </p>
 <br>
 
-## 🧑‍💼 About Me:
+## About Me:
 I am a passionate Computer Science & Engineering student with a strong interest in full-stack web development. I love building interactive and dynamic web applications using the MERN stack.
 
-## 🔭 Currently I'm:
-- 🌍 Exploring **Next.js** for server-side rendering and routing
-- 🧾 Developing a **Learning Management Website** with nextJs and TypeScript
-- ⚙️ Practicing reusable components & performance optimization
+##  Currently I'm:
 
-##  💻 Tech Stack
+* Focusing on **Backend Development** with **Node.js, Express.js, Prisma, and PostgreSQL**
+* Building scalable **REST APIs** with authentication, authorization, and role-based access control
+* Designing efficient **database schemas** and optimizing queries using Prisma ORM
+* Developing a **Hospital Management System** and other production-grade backend applications
+* Learning backend architecture, API security, performance optimization, and clean code practices
+
+
+##  Tech Stack
 <p >
   <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,express,mongodb,firebase,git,github,figma,cpp,java,python,postgresql," />
 </p>
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p>
    <a href="mailto:sazidahamed04@gmail.com">
